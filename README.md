@@ -1,7 +1,7 @@
 <!-- ==========================================================
      HERO BANNER
      ========================================================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:2b1055,100:00c9ff&height=200&section=header" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:2b1055,100:00c9ff&height=200&section=header" width="100%"/> -->
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
@@ -55,12 +55,15 @@
 
 ### 👋 About Me
 
-I'm an **AI & Machine Learning Engineer** passionate about building intelligent systems, solving real-world problems and leveraging Generative AI to create impact.
+I'm an **AI & Machine Learning Engineer** and **Full Stack Developer** passionate about building AI-powered applications that solve real-world problems. I enjoy working across the entire development stack—from designing intuitive user interfaces to developing scalable backend systems and integrating intelligent AI solutions.
 
-- 🎓 **B.Tech in Computer Science & Engineering** @ Lovely Professional University
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning @ Lovely Professional University
+- 💡 Interested in Generative AI, LLMs, AI Agents, Computer Vision, and Full Stack Development
+- 🚀 Building AI products, SaaS applications, and open-source projects
+- 🌱 Currently learning Advanced GenAI, System Design, and Cloud Technologies
 - 📍 Jalandhar, Punjab, India
-- 📧 ankeshmaurya.ai@gmail.com
-- 💼 Born to code. Built to solve. Driven to innovate.
+- 📧 ankeshmaurya1891601@gmail.com
+- 💼 Open to internships and full-time opportunities
 
 **Interested in:** Artificial Intelligence · Machine Learning · Deep Learning · Generative AI · LLMs · Agents · Computer Vision · NLP · MLOps · Cloud · Data Science
 
@@ -72,11 +75,11 @@ I'm an **AI & Machine Learning Engineer** passionate about building intelligent 
 ### 🔗 Connect with me
 
 <a href="https://linkedin.com/in/ankeshmaurya"><img src="https://img.shields.io/badge/LinkedIn-linkedin.com/in/ankeshmaurya-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a><br/>
-<a href="https://ankeshmaurya.dev"><img src="https://img.shields.io/badge/Portfolio-ankeshmaurya.dev-00E5FF?style=flat-square&logo=vercel&logoColor=black"/></a><br/>
-<a href="mailto:ankeshmaurya.ai@gmail.com"><img src="https://img.shields.io/badge/Email-ankeshmaurya.ai@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a><br/>
-<a href="https://leetcode.com/ankesh_maurya"><img src="https://img.shields.io/badge/LeetCode-ankesh__maurya-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a><br/>
+<a href="https://ankeshmaurya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ankeshmaurya.dev-00E5FF?style=flat-square&logo=vercel&logoColor=black"/></a><br/>
+<a href="mailto:ankeshmaurya1891601@gmail.com"><img src="https://img.shields.io/badge/Email-ankeshmaurya.ai@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a><br/>
+<!-- <a href="https://leetcode.com/ankesh_maurya"><img src="https://img.shields.io/badge/LeetCode-ankesh__maurya-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a><br/> -->
 <a href="https://github.com/ankeshmaurya"><img src="https://img.shields.io/badge/GitHub-ankeshmaurya-181717?style=flat-square&logo=github&logoColor=white"/></a><br/>
-<a href="https://twitter.com/ankeshmaurya"><img src="https://img.shields.io/badge/Twitter-@ankeshmaurya-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+<!-- <a href="https://twitter.com/ankeshmaurya"><img src="https://img.shields.io/badge/Twitter-@ankeshmaurya-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a> -->
 
 </td>
 </tr>
@@ -87,23 +90,23 @@ I'm an **AI & Machine Learning Engineer** passionate about building intelligent 
 <!-- ==========================================================
      GITHUB STATS ROW  (3 dashboard cards, like the reference image)
      ========================================================== -->
-### 📊 GitHub Stats
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+<!-- <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="34%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=ankeshmaurya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=8A2BE2&text_color=c9d1d9&ring_color=8A2BE2" width="100%"/>
+<td width="34%" valign="top"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ankeshmaurya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=8A2BE2&text_color=c9d1d9&ring_color=8A2BE2" width="100%"/>
 </td>
-<td width="33%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankeshmaurya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=c9d1d9" width="100%"/>
-</td>
-<td width="33%" valign="top">
-<img src="https://streak-stats.demolab.com/?user=ankeshmaurya&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=8A2BE2&currStreakLabel=00E5FF" width="100%"/>
-</td>
+<td width="33%" valign="top"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankeshmaurya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=c9d1d9" width="100%"/>
+</td> -->
+<!-- <td width="33%" valign="top"> -->
+<!-- <img src="https://streak-stats.demolab.com/?user=ankeshmaurya&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=8A2BE2&currStreakLabel=00E5FF" width="100%"/> -->
+<!-- </td>
 </tr>
 </table>
 
-<br/>
+<br/> -->
 
 <!-- ==========================================================
      TECH STACK  +  CURRENTLY LEARNING (two columns)
@@ -115,28 +118,41 @@ I'm an **AI & Machine Learning Engineer** passionate about building intelligent 
 ### ⚡ Tech Stack
 
 **Languages**
-<br/><img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,mysql,html,css" /><br/>
+<br/><img src="https://skillicons.dev/icons?i=python,cpp,js,mysql,html,css" /><br/>
 
 **AI / ML**
-<br/><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/><br/>
+<br/><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" /><br/>
+<!-- <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/><br/> -->
 
 **Web & App**
 <br/><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,tailwind" /><br/>
 
 **DevOps & Tools**
-<br/><img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,azure,gcp,linux,postman,vscode" />
+<br/><img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,terraform,grafana,prometheus,gcp,linux,vscode" />
+
+## 🌱 Currently Learning
+
+- 🤖 Advanced Generative AI & AI Agents
+- 🔗 Langchain, LangGraph & Multi-Agent Systems
+- ☁️ AWS Cloud & DevOps
+- ⚙️ Kubernetes & Microservices
+- 🏗️ System Design
 
 </td>
 <td valign="top" width="32%">
 
-### 🏆 Achievements
+🏆 Dean's List – Ranked among the Top 50% students at Lovely Professional University.
 
-- 🎖️ National Hackathon — R² 85→87.43
-- 💼 Business Analyst Intern, Frugal Testing
-- 📈 Independent SaaS Builder (3 shipped products)
-- 🧩 Full DevOps Pipeline (Jenkins, Terraform, AWS)
+💻 Developed multiple AI-powered applications, including BankBot AI, Smart Farming AI Agent, and machine learning projects.
+
+🚀 Participated in national-level hackathons, including the Flipkart Hackathon, KSolves Hackathon, and Republic of Cyber Sentinels CTF (RCSCTF24).
+
+📜 Earned certifications in AI, Cloud Computing, and Data Science through IBM SkillsBuild, Edunet Foundation, and Infosys Springboard.
+
+🌟 Completed industry-focused internships in AI & Cloud and Python Full Stack Development.
+
+📂 Built and open-sourced full-stack and AI/ML projects using Python, React, FastAPI, Docker, and modern AI frameworks.
 
 ### 📚 Currently Learning
 
@@ -145,6 +161,11 @@ I'm an **AI & Machine Learning Engineer** passionate about building intelligent 
 - Retrieval Augmented Generation (RAG)
 - MLOps & Model Deployment
 - Multi-Agent Systems (MCP, CrewAI)
+- Advanced Generative AI & AI Agents
+- Langchain, LangGraph & Multi-Agent Systems
+- AWS Cloud & DevOps
+- Microservices
+- System Design
 
 </td>
 </tr>
@@ -223,7 +244,7 @@ I'm an **AI & Machine Learning Engineer** passionate about building intelligent 
 <!-- ==========================================================
      CONTRIBUTION GRAPH  +  ACTIVITY OVERVIEW (two columns)
      ========================================================== -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!-- <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td valign="top" width="60%">
 
@@ -247,7 +268,7 @@ I'm an **AI & Machine Learning Engineer** passionate about building intelligent 
 <!-- ==========================================================
      TROPHIES + QUOTE
      ========================================================== -->
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=ankeshmaurya&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
 
@@ -257,7 +278,7 @@ I'm an **AI & Machine Learning Engineer** passionate about building intelligent 
 
 </div>
 
-<br/>
+<br/> --> -->
 
 <!-- ==========================================================
      FOOTER
